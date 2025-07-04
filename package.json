@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "dependencies": {
     "@hookform/resolvers": "^3.3.4",
     "axios": "^1.6.7",
@@ -10,10 +11,7 @@
     "react-toastify": "^10.0.4",
     "tailwind-merge": "^2.2.1",
     "zod": "^3.22.4",
-    "zustand": "^4.5.0",
-      "type": "module"
-
-    
+    "zustand": "^4.5.0"
   },
   "devDependencies": {
     "@types/qrcode": "^1.5.5"
